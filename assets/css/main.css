@@ -1,6 +1,11 @@
 @import url(font-awesome.min.css);
 @import url(sh-icon.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300italic,600italic,300,600");
+@media screen and (max-width: 320px){#logo{display:none;}}
+@media screen and (max-width: 480px){#logo{display:none;}}
+@media screen and (max-width: 650px){#logo{display:none;}}
+@media screen and (max-width: 980px){#logo{display:none;}}
+@media screen and (max-width: 980px){#logo{display:none;}}
 
 /*
 	Dimension by HTML5 UP
