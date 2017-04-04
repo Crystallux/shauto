@@ -128,7 +128,7 @@ body {
 .banner .item-1 {
     background-color: rgba(0, 0, 0, 0);
     background-repeat: no-repeat;
-    background: url("http://placehold.it/1900x670");
+    background: url("http://i.imgur.com/NNYVROf.png");
     background-size: cover;
     background-position: center center;
     width: 100%;
@@ -141,7 +141,7 @@ body {
 .banner .item-2 {
     background-color: rgba(0, 0, 0, 0);
     background-repeat: no-repeat;
-    background: url("http://placehold.it/1900x670");
+    background: url("http://i.imgur.com/kFBqyeg.png");
     background-size: cover;
     background-position: center center;
     width: 100%;
@@ -154,7 +154,7 @@ body {
 .banner .item-3 {
     background-color: rgba(0, 0, 0, 0);
     background-repeat: no-repeat;
-    background: url("http://placehold.it/1900x670");
+    background: url("http://i.imgur.com/H4nz55T.png");
     background-size: cover;
     background-position: center center;
     width: 100%;
@@ -927,7 +927,7 @@ footer p {
     color: white;
     background-color: rgba(0, 0, 0, 0);
     background-repeat: no-repeat;
-    background-image: url(http://placehold.it/1900x305);
+    background-image: url(http://i.imgur.com/fEQWkWw.png);
     background-size: cover;
     background-position: center center;
     width: 100%;
