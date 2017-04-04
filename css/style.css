@@ -214,7 +214,7 @@ body {
 }
 
 .banner .banner-slider-inner h1 {
-    color: #FFF;
+    color:  #FFF;
     z-index: 5;
 	text-align: center;
     margin-bottom: 20px;
@@ -240,9 +240,10 @@ body {
 }
 
 .banner-slider-inner p {
+	color: #fff;
     font-size: 16px;
 	text-align: center;
-    font-weight: 300;
+    font-weight: 400;
     margin-bottom: 25px;
     letter-spacing: 1px;
 }
@@ -927,7 +928,7 @@ footer p {
     color: white;
     background-color: rgba(0, 0, 0, 0);
     background-repeat: no-repeat;
-    background-image: url(http://i.imgur.com/fEQWkWw.png);
+    background-image: url(http://i.imgur.com/21rHJHs.png);
     background-size: cover;
     background-position: center center;
     width: 100%;
